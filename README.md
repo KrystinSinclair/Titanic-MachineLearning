@@ -9,7 +9,7 @@ Instructor: Yuxiao Huang
 
 Students: Krystin Sinclair, Lydia Jin and Xi Qian
 
-This project is from a Kaggle Compeititon 
+This project is from a Kaggle Compeititon.
 https://www.kaggle.com/c/titanic
 
 This competition provides 2 csv files. 
