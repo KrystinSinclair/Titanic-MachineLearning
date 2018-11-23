@@ -20,4 +20,9 @@ This project was completed using python in a jupyter notebook file.
 
 The jupyter notebook file does require pandas, numpy, SciPy, MatPlotlib, Seaborn, and sklearn packages.
 
+The objective of this project is to identify who would survive the Titanic shipwreck of 1912. 
+The target variable is "Survived" a binary variable where No=0 and Yes =1. 
+The data provided by the competition includes 9 feature variables, which are: ticket class and number, sex, age, number of siblings and/or spouses, number of parents and/or children, the cost of the ticket, the cabin number and where the passenger embarked on the boat.
+
+The jupyter notebooked file is completed in the order of data cleaning, EDA, and lastly model selection. 
 
