@@ -1,13 +1,6 @@
 # Titanic-MachineLearning
-Group 6 Project
 
-Final Project for Machine Learning I 
-
-DATS 6202 - Fall 2018
-
-Instructor: Yuxiao Huang
-
-Students: Krystin Sinclair, Lydia Jin and Xi Qian
+Authors:  Krystin Sinclair, Lydia Jin and Xi Qian
 
 This project is from a Kaggle Compeititon.
 https://www.kaggle.com/c/titanic
